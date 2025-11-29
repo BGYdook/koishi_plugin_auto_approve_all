@@ -1,0 +1,9 @@
+{
+  "name": "koishi-plugin-auto-approve-all",
+  "version": "1.0.0",
+  "description": "自动同意所有好友申请与群邀请（OneBot）",
+  "main": "index.js",
+  "keywords": ["koishi", "plugin", "onebot", "qq", "auto-approve"],
+  "license": "MIT"
+}
+
